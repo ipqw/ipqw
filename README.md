@@ -2,10 +2,6 @@
 
 ### :computer: Обо мне:
 
-Я начинающий веб разработчик. Мой путь в it начался c Gamedev на Unity, но больше заинтересовала Web разработка. С лета 2022 года изучаю веб.
-
-- :zap: Завершил курсы по веб-разработке Яндекс Лицея!
-
 - :gem: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ipqwo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asdymsk3@gmail.com)
 
 ---
