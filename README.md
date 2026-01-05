@@ -1,5 +1,3 @@
-# Привет, меня зовут Илья!
-
 ### :computer: Обо мне:
 
 - :gem: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ipqwo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asdymsk3@gmail.com)
