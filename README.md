@@ -1,65 +1,16 @@
-### :computer: Обо мне:
+## Илья
 
-- :gem: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ipqwo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:asdymsk3@gmail.com)
+### Проекты
 
----
+| Проект | Описание |
+|---|---|
+| [Homeschool](https://homeschool.bba-lab.ru) | Голосовой AI-учитель для детей на семейном обучении |
+| [BB Academy](https://bb-academy.ru) | Игровая платформа, где ребёнок за месяц делает свой AI-проект |
+| [Reclaim](https://reclaim-academy.com) | Платформа курса психологического восстановления: видеокурс и сообщество |
+| [Изоком](https://tk-gpi.ru) | Сайт производителя труб с AI-консультантом по каталогу |
+| [agent-bridge](https://github.com/ipqw/agent-bridge) | Десктоп-мост: даёт удалённому AI-агенту доступ к терминалу, браузеру и офисным файлам на ПК пользователя |
+| [prod2026](https://github.com/ipqw/prod2026) | Интернет-магазин, отборочный этап олимпиады PROD 2026 · [демо](https://prod2026.ipqw.cc) |
 
-### 🤝 Социальные сети:
+### Связь
 
-  <div id="badges">
-    <a href="https://t.me/ipqwo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
-### 💻 Технологии:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/MobX.svg" title="mobx" alt="mobx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>
-
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
-</div>
-
----
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата                    |
-| ----------------------------------------------------------------| :----------------------:|
-| lyceum.yandex.ru/Фронтенд-разработка                            | 08.10.2022 - 24.12.2022 |
-
----
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/ipqw/badges/large)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ipqw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipqw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+Telegram [@ipqwq](https://t.me/ipqwq) · [asdymsk3@gmail.com](mailto:asdymsk3@gmail.com)
