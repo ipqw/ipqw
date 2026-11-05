@@ -35,22 +35,6 @@
 <sub>RAG · FastAPI · Qdrant · React</sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ipqw/agent-bridge"><img src="assets/agent-bridge.jpg" alt="agent-bridge"></a>
-<h3><a href="https://github.com/ipqw/agent-bridge">agent-bridge</a></h3>
-Десктоп-приложение: даёт удалённому AI-агенту доступ к терминалу, браузеру и офисным файлам на ПК
-<br><br>
-<sub>Tauri · TypeScript · MCP · frp</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://prod2026.ipqw.cc"><img src="assets/prod2026.jpg" alt="Luxury Shop"></a>
-<h3><a href="https://prod2026.ipqw.cc">Luxury Shop</a></h3>
-Интернет-магазин на чистом JavaScript — отборочный этап олимпиады PROD 2026 · <a href="https://github.com/ipqw/prod2026">код</a>
-<br><br>
-<sub>JavaScript · Playwright</sub>
-</td>
-</tr>
 </table>
 
 ### Связь
